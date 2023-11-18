@@ -1,0 +1,47 @@
+[
+	{
+		"id": "1",
+		"name": "Carlos Duverney",
+		"username": "cadu123",
+		"email": "user",
+		"pass": "user",
+		"phone": "840-452-3717",
+		"website": "website_1"
+	},
+	{
+		"id": "2",
+		"name": "Jane Smith",
+		"username": "jane_smith",
+		"email": "jane.smith@example.com",
+		"pass": "pass123",
+		"phone": "456-789-1234",
+		"website": "website_2"
+	},
+	{
+		"id": "3",
+		"name": "Mike Johnson",
+		"username": "mike_johnson",
+		"email": "mike.johnson@example.com",
+		"pass": "qwerty123",
+		"phone": "789-123-4567",
+		"website": "website_3"
+	},
+	{
+		"id": "4",
+		"name": "Sara Wilson",
+		"username": "sara_wilson",
+		"email": "sara.wilson@example.com",
+		"pass": "abcdefg123",
+		"phone": "987-654-3210",
+		"website": "website_4"
+	},
+	{
+		"id": "5",
+		"name": "David Brown",
+		"username": "david_brown",
+		"email": "david.brown@example.com",
+		"pass": "password456",
+		"phone": "654-321-0987",
+		"website": "website_5"
+	}
+]
